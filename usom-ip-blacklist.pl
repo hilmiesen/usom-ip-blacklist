@@ -141,6 +141,7 @@ print "#####################################################################\n\n
 print "Bitis Zamani: ".localtime . "\n\n";
 print "Usom-IP Listesi Dosyasi:\t\t $usom_ip_file\n";
 print "Usom IP Listesi Cikti Dosyasi:\t\t $usom_out_file\n";
+
 	
 ###############################################################################
 ### FONKSIYONLAR
